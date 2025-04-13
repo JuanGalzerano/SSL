@@ -1,3 +1,5 @@
 # SSL
 
-Sintaxis y semantica de los lenguajes
+Nombre: Juan Ignacio Galzerano
+Curso: K2102
+
