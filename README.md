@@ -1,4 +1,4 @@
-# Sintaxis y Semantica de los lenguajes
+# Sintaxis y Semántica de los lenguajes
 
 Nombre: Juan Ignacio Galzerano 
 
